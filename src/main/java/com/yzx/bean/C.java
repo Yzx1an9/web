@@ -10,4 +10,8 @@ public class C implements D{
     public void init(){
         System.out.println("C中的无参数INIT");
     }
+    
+    public void method(){
+       int i = 1;
+   }
 }
