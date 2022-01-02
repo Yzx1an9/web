@@ -13,5 +13,7 @@ public class C implements D{
     
     public void method(){
        int i = 1;
+       i++;
+        System.out.println(i);
    }
 }
